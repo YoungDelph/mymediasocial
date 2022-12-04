@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Add.AddTextActivity"
+    android:background="@color/back">
+
+    <EditText
+        android:id="@+id/edittext"
+        android:layout_width="240dp"
+        android:layout_height="61dp"
+        android:hint="Que pensez-vous?"
+        android:layout_centerInParent="true"
+        android:textColor="@color/black"
+        android:textSize="27dp"/>
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/pickTextFab"
+        android:layout_width="80dp"
+        android:layout_height="91dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:src="@drawable/ic_baseline_text_snippet_24" />
+</RelativeLayout>

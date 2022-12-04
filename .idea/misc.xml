@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/drawable-anydpi/dialog_bg.xml" value="0.149" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/drawable-anydpi/photo_post.xml" value="0.133" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/drawable-anydpi/text_post.xml" value="0.133" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/drawable/background_left.xml" value="0.141" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/drawable/grey_border.xml" value="0.149" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/drawable/grey_border_bottom.xml" value="0.149" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.149" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/drawable/ic_baseline_text_snippet_24.xml" value="0.149" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/drawable/id.xml" value="0.133" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/drawable/id1.xml" value="0.133" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/drawable/white_grey_border_bottom.xml" value="0.133" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/drawable/white_grey_border_top.xml" value="0.133" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/drawable/white_rounded_button.xml" value="0.133" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/activity_accountsettings.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/activity_add.xml" value="0.16" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/activity_add_text.xml" value="0.12" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/activity_add_video.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/activity_chat.xml" value="0.1633176571184267" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/activity_home.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/activity_main.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/activity_message.xml" value="0.1633176571184267" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/activity_next.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/activity_notification.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/activity_profile.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/activity_register.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/activity_search.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/activity_share.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/activity_splash.xml" value="0.14" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/chat_item_left.xml" value="0.1633176571184267" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/chat_item_right.xml" value="0.1633176571184267" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/dialog_confirm_password.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_camera.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_editprofile.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_exemple.xml" value="0.14641885766092474" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_gallery.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_gallery_video.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_home.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_login.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_massages.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_messages.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_photo.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_sign_up.xml" value="0.18" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_signout.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_text.xml" value="0.14" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_view_comments.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_view_photext.xml" value="0.2" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_view_post.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_view_profile.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_view_text.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/fragment_view_video.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_bottom_navigation_view.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_bottom_tabs.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_center_accountsettings.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_center_profile.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_center_text.xml" value="0.12" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_center_video.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_center_view_profile.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_center_viewpager.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_centr_profile.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_comment.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_grid_imageview.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_grid_videoview.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_login.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_mainfeed_listitem.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_top_tabs.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_user_listitem.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_video_post.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_view_photext.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_view_post.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/layout_view_text.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/pop2_thing.xml" value="0.1633176571184267" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/pop3_thing.xml" value="0.1633176571184267" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/pop_thing.xml" value="0.22" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/real_login.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/simple.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/snippet_center_editprofile.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/snippet_comments_toolbar.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/snippet_photext_toolbar.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/snippet_post_toolbar.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/snippet_searchbar.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/snippet_text_toolbar.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/snippet_top_accountsettingtoolbar.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/snippet_top_editprofiletoolbar.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/snippet_top_gallerytoolbar.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/snippet_top_nexttoolbar.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/snippet_top_profil.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/snippet_top_profilbar.xml" value="0.1" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/snippet_top_view_profile.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/snippet_top_view_profilebar.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/layout/user_item.xml" value="0.1633176571184267" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/menu/bottom_navigation_menu.xml" value="0.16417272338606242" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1485" />
+        <entry key="..\:/AndroidStudioProjects/MyMediaSocial/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1485" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

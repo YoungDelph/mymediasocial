@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "883233080487",
+    "project_id": "mymediasocial-2a1b4",
+    "storage_bucket": "mymediasocial-2a1b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883233080487:android:6a13039ea84a7186608782",
+        "android_client_info": {
+          "package_name": "com.example.mymediasocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883233080487-fjr7r4tdc8hq1os58p8pl68bj2t1jc5a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXD9CDh0XXmjpQmHu_7IdCQ_PGmhIzEX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883233080487-fjr7r4tdc8hq1os58p8pl68bj2t1jc5a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
